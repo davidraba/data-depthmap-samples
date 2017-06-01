@@ -1,0 +1,23 @@
+Number of samples : 	1
+Size : 	320 x 240
+Unit : 	LSB
+Mode : 	distance
+
+ROI
+Top left X : 	4
+Bottom right X : 	323
+Top left Y : 	6
+Bottom right Y : 	245
+
+BINNING AND REDUCTION
+Binning vertical : 	disabled
+Binning horizontal : 	disabled
+Row reduction : 	1
+
+MODULATION
+Frequency : 	12000000 Hz
+FLIM
+Flash delay : 	7Flash width : 	45Mga delay : 	7306232Mga width : 	0Mgb delay : 	7307520Mgb width : 	7306280Repetition time : 	7Repetitions : 	2
+TRANSFORMATION
+Horizontal flip : 	disabled
+Vertical flip : 	enabled
